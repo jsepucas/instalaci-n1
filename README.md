@@ -1,2 +1,2 @@
-# instalaci-n1
+# instalacion1
 instalación de todos los componentes 
