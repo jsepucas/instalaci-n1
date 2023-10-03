@@ -1,0 +1,10 @@
+/* Programa: Hola mundo */
+
+int main("Hola mundo")
+{
+    printf( "Hola mundo." );
+
+    getch(); /* Pausa */
+
+    return 0;
+}
