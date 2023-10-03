@@ -1,4 +1,5 @@
 # instalacion1
 instalación de todos los componentes 
 
-cambios2
+cambios3
+cambio
