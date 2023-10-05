@@ -1,13 +1,18 @@
-/* Programa: Hola mundo */
+class vehiculo {
+    public:
+    int ruedas
+    string color;
 
-#include <conio.h>
-#include <stdio.h>
+    void mostrar() {
+         cout << "Este vehiculo tiene " << ruedas << " ruedas y es de color " << color << ".\n";
+      }
+};
 
-int main()
-{
-    printf( "Hola mundo." );
+int main() {
+   Vehiculo coche;
+   coche.ruedas = 4;
+   coche.color = "rojo";
+   coche.mostrar();
 
-    getch(); /* Pausa */
-
-    return 0;
+   return 0;
 }
