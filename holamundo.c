@@ -15,6 +15,4 @@ int main() {
    coche.mostrar();
 
    return 0;
-
-Prueba num 2 
 }
